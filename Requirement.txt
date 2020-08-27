@@ -1,0 +1,17 @@
+In order to be able to go along with the analysis the following libraries need to be installed:
+1. Sklearn library
+2. Pandas
+3. Seaborn 
+4. Matplotlib
+
+* Requirement
+         How to install
+1. a. pip install sklearn # This need to be done on the command line
+   b. conda install sklearn # Optional
+
+2. pip install pandas
+
+3. pip install seaborn # Seaborn library comes along with matplotlib
+
+4. pip install matplotlib
+
