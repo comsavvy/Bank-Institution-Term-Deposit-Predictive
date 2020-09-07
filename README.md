@@ -37,13 +37,4 @@ Which evaluation metric is more appropriate for this project, and why?
 ### Task 3 - A detailed and well written report
 Write a Medium article summarizing the pre processing carried out on the data, the idea behind choosing the type of k-fold, model algorithm,  and evaluation metric. Present a justification for choosing the three models. Your article should have a link to your code in github. Your code in Github should at least have three model functions (if you prefer, you can make module folders instead) and a README and requirements.txt files. 
 
-Your github folder should at least have the following:
-README - explaining the project, and a guide on how to run the code
-Requirement.txt - which python packages are needed to run your code
-Main.py - imports all the necessary classes and functions from other files and automates the process of pre-processing, model training, and model prediction. (use argparse/fire/click package to accept command line parameters)
-Data.py - contains all functions and classes you write to do the pre-processing 
-Model.py - contains all functions and classes you write to generate your three models
-notebooks/ - a folder that contains jupyter notebooks you use to develop your code (use %%writefile Data.py magic in a jupyter notebook to write codes in a cell to a script) 
-Util.py - any code that doesn’t fall inside data.py and model.py
-
 # The main goal as a machine learning researcher is to carry out data exploration, data cleaning, feature extraction, and developing robust machine learning algorithms that would aid them in the department.
